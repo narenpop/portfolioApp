@@ -3,7 +3,7 @@ import Navbar from './Navbar'
 import {motion} from 'framer-motion'
 import todo from './images/todo.png'
 import ecom from './images/ecom.png'
-import Footer from './footer'
+import Footer from './Footer'
 function Projects() {
   return (
     <>

@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 import {motion} from 'framer-motion'
-import Footer from './footer'
+import Footer from './Footer'
 import { div } from 'framer-motion/client'
 
 
